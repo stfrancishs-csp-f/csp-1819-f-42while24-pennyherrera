@@ -15,7 +15,7 @@ int main(void)
     printf ("sum = %d\n",sum);
     //add sum = in previous line
 
-    for (k=4;k>=0;k--)
+    for (k=9;k>0;k--)
     
     {
         printf ("       %d\n", k);
