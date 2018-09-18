@@ -17,7 +17,7 @@ int main(void)
     for (k=9;k>0;k--)
     
     {
-        printf ("%d\n", k);
+        printf ("       %d\n", k);
     }
 
 }
