@@ -7,6 +7,7 @@ int main(void)
     while (k<5)
 
     {
+        printf("       %d\n",k);
         sum=sum+k;
         k++;
     }
@@ -14,7 +15,7 @@ int main(void)
     printf ("sum = %d\n",sum);
     //add sum = in previous line
 
-    for (k=9;k>0;k--)
+    for (k=4;k>=0;k--)
     
     {
         printf ("       %d\n", k);
